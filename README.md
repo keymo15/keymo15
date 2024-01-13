@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Masters in Information Systems at Northeastern University. <br>I'm looking for a Co-op in IT for Fall 2023. <br>I'm highly interested in Cloud and System administration.
+I'm currently studying Masters in Information Systems at Northeastern University. <br>I am also doing a Co-op as a Software Engineeer, Infrastructure at Martinrea International. <br>I'm highly interested in Cloud and System administration.
 
 
 ## 🌐 Socials:
